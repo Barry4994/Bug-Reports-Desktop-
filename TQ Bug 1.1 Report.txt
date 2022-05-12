@@ -1,0 +1,28 @@
+
+1. Open «Titan Quest Anniversary edition»
+2. Click the "START GAME" button
+3. Select the character who has "ACT 4" open
+4. Click "START"
+5. Destroy all mobs whose model is larger
+Expected result: Items dropped from "large mobs" have a name without: -, Gender not found, [fs], [ms], [np], [ns].
+The actual result: Items dropped from "large mobs" have a name with extra elements, such as: -, Gender not found, [fs], [ms], [np], [ns].
+Environment: Windows 10 (64 bit)
+Client: Titan Quest Anniversary edition (ID builds 8125702)
+Time: 12/27/2021 (18:30-20:00 at Moscow time)
+Screenshots are attached.
+
+
+(RUSSIAN VERSION)
+
+1. Открыть «Titan Quest Anniversary edition»
+2. Нажмите кнопку "НАЧАТЬ ИГРУ"
+3. Выберите персонажа, у которого открыт "4 АКТ"
+4. Нажмите "НАЧАТЬ"
+5. Уничтожайте всех мобов, модель которых, крупнее
+Ожидаемый результат: Предметы, выпавшие с "крупных мобов" имеют название без: -, Gender not found, [fs], [ms], [np], [ns].
+Фактический результат: Предметы, выпавшие с "крупных мобов" имеют название c лишними элементами, как то: -, Gender not found, [fs], [ms], [np], [ns].
+
+Окружение: Windows 10 (64 bit)
+Клиент: Titan Quest Anniversary edition (ID сборки 8125702)
+Время: 27.12.2021 (18:30-20:00 по Московскому времени)
+Скриншоты прилагаются.

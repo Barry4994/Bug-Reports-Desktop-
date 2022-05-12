@@ -1,0 +1,27 @@
+
+1. Open «Titan Quest Anniversary edition» with the addition of "Ragnarok"
+2. Click the "START GAME" button
+3. Choose a character
+4. Look for items that give an increase to the experience you get
+Expected result: Items with an increase in experience, have a specific meaning in %
+Actual result: Items with increased experience have a value (0:+.0f%)
+
+Environment: Windows 10 (64 bit)
+Client: Titan Quest Anniversary edition (ID builds 8125702)
+Time: 12/27/2021 (18:40 at Moscow time)
+Screenshot attached.
+
+
+(RUSSIAN VERSION)
+
+1. Открыть «Titan Quest Anniversary edition» с дополнением "Ragnarok"
+2. Нажмите кнопку "НАЧАТЬ ИГРУ"
+3. Выберите персонажа
+4. Ищите предметы, дающие прибавку к получаемому опыту
+Ожидаемый результат: Предметы с прибавкой опыта, имеют конкретное значение в %
+Фактический результат: Предметы с прибавкой опыта, имеют значение (0:+.0f%)
+
+Окружение: Windows 10 (64 bit)
+Клиент: Titan Quest Anniversary edition (ID сборки 8125702)
+Время: 27.12.2021 (18:40 по Московскому времени)
+Скриншот прилагается.
